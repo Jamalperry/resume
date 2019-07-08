@@ -1,7 +1,9 @@
 body {
   background-color: lightgrey;
 }
-
+h2 {
+	text-decoration: underline;
+}
 .intro {
 	text-align: center;
 }
